@@ -1,0 +1,15 @@
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\bin\Debug\net6.0\KodetimeM3_klasserOgConstructors.exe
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\bin\Debug\net6.0\KodetimeM3_klasserOgConstructors.deps.json
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\bin\Debug\net6.0\KodetimeM3_klasserOgConstructors.runtimeconfig.json
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\bin\Debug\net6.0\KodetimeM3_klasserOgConstructors.dll
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\bin\Debug\net6.0\KodetimeM3_klasserOgConstructors.pdb
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\obj\Debug\net6.0\KodetimeM3_klasserOgConstructors.csproj.AssemblyReference.cache
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\obj\Debug\net6.0\KodetimeM3_klasserOgConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\obj\Debug\net6.0\KodetimeM3_klasserOgConstructors.AssemblyInfoInputs.cache
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\obj\Debug\net6.0\KodetimeM3_klasserOgConstructors.AssemblyInfo.cs
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\obj\Debug\net6.0\KodetimeM3_klasserOgConstructors.csproj.CoreCompileInputs.cache
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\obj\Debug\net6.0\KodetimeM3_klasserOgConstructors.dll
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\obj\Debug\net6.0\refint\KodetimeM3_klasserOgConstructors.dll
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\obj\Debug\net6.0\KodetimeM3_klasserOgConstructors.pdb
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\obj\Debug\net6.0\KodetimeM3_klasserOgConstructors.genruntimeconfig.cache
+C:\Users\linn\OneDrive\Dokumenter\GitHub Repos\KodetimeM3_klasserOgConstructors\KodetimeM3_klasserOgConstructors\obj\Debug\net6.0\ref\KodetimeM3_klasserOgConstructors.dll

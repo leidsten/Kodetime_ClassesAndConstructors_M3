@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KodetimeM3_klasserOgConstructors/1.0.0": {
+        "runtime": {
+          "KodetimeM3_klasserOgConstructors.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KodetimeM3_klasserOgConstructors/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
